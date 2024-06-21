@@ -9,27 +9,44 @@ Answer the following questions based on your understanding of the installation a
 
 1. Installation of VS Code:
    - Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.
+     
+   **ANSWER-** Visit www.Vscode download and choose 64xbit for windows and tap on download, After downloading , open download folder on the system file manager and right click on it and selet run as adminstrator and wait for it to install.
 
 2. First-time Setup:
    - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
+     
+     **ANSWER-** choosing my preferred theme,choosing tracking your code with git, and mark done
 
 3. User Interface Overview:
    - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
+     
+   - **ANSWER-** 
 
 4. Command Palette:
    - What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
-
+**ANSWER-** The Command Palette provides access to many commands. You can run editor commands, open files, search for symbols, and see a quick outline of a file,
+           all using the same interactive window.
+     
 5. Extensions in VS Code:
    - Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
+     **ANSWER-** VS Code extensions let you add languages, debuggers, and tools to your installation to support your development workflow.
+          Essential extension for web development includes live server , vs icon e.t.c
 
 6. Integrated Terminal:
    - Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
+     **ANSWER**
+   - The integrated terminal can run commands such as mkdir and git just like a standalone terminal.
+   - The advantage of using a terminal is that it provides a powerful and efficient way to interact with computers.
 
 7. File and Folder Management:
    - Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?
+    **ANSWER**
+     We have many ways we can open ,create and manage files and folder in vs code but we can open a folder by clicking on explorer in side bar and click on open folder then
+      we can create a file in vs code.
 
 8. Settings and Preferences:
    - Where can users find and customize settings in VS Code? Provide examples of how to change the theme, font size, and keybindings.
+     
 
 9. Debugging in VS Code:
    - Outline the steps to set up and start debugging a simple program in VS Code. What are some key debugging features available in VS Code?
